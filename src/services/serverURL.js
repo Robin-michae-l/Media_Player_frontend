@@ -1,1 +1,1 @@
-export const serverURL="http://localhost:5225"
+export const serverURL="https://media-backend-yrpl.onrender.com"
